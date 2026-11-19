@@ -2,7 +2,7 @@ export const portfolioConfig = {
   email: "athulchandra861@gmail.com",
   github: "https://github.com/athulchandraa",
   linkedIn: "https://www.linkedin.com/in/athul-chandra/",
-  resume: "https://drive.google.com/file/d/1LUKDIVjxk7ssK_NgFkzj2dbexSGviVSf/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1I1qmDbWUFm4lCxwogtnCa-Sf7qIV46ge/view?usp=drivesdk",
   internshipDuration: "6 Months",
   internshipResponsibilities: "",
   projects: {
